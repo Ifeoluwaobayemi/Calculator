@@ -129,7 +129,7 @@
             // 
             resultTextBox.Location = new Point(340, 455);
             resultTextBox.Name = "resultTextBox";
-            resultTextBox.Size = new Size(250, 47);
+            resultTextBox.Size = new Size(348, 47);
             resultTextBox.TabIndex = 12;
             // 
             // Form1

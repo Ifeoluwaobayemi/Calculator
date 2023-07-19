@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Calculator.Core.Logic
 {
-    public class Operations
+    public class Operations : IOperations
     {
         public string Add(string firstNumber, string secondNumber)
         {
@@ -19,7 +19,7 @@ namespace Calculator.Core.Logic
             {
                 return "Invalid number";
             }
-            
+
         }
         public string Subtract(string firstNumber, string secondNumber)
         {
@@ -45,16 +45,21 @@ namespace Calculator.Core.Logic
         }
         public string Divide(string firstNumber, string secondNumber)
         {
-            if (int.TryParse(firstNumber, out int value) && int.TryParse(secondNumber, out int value2))
+            try {
+                if (int.TryParse(firstNumber, out int value) && int.TryParse(secondNumber, out int value2))
+                {
+                    return (value / value2).ToString();
+                }
+                else
+                {
+                    return "Invalid number";
+                }
+            }catch (Exception ex)
             {
-                return (value / value2).ToString();
-            }
-            else
-            {
-                return "Invalid number";
+                //throw new Exception(ex.Message);
+                return "Cannot be divided by 0";
             }
         }
-
-
+    
     }
 }

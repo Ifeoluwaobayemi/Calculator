@@ -216,20 +216,6 @@ namespace TestOperationsClass
             Assert.Equal(expectedResult, result);
         }
 
-        [Fact]
-        public void Divide_DivisionByZero_ReturnsInvalidNumberMessage()
-        {
-            // Arrange
-            string firstNumber = "10";
-            string secondNumber = "0";
-            string expectedErrorMessage = "Invalid number";
-
-            // Act
-            string result = _operations.Divide(firstNumber, secondNumber);
-
-            // Assert
-            Assert.Equal(expectedErrorMessage, result);
-        }
 
         [Fact]
         public void Divide_InvalidFirstNumber_ReturnsInvalidNumberMessage()
@@ -275,5 +261,19 @@ namespace TestOperationsClass
             // Assert
             Assert.Equal(expectedErrorMessage, result);
         }
+
+        [Fact]
+        public void Divide_ByZeroMessage()
+        {
+            //Arrange
+            string firstNumber = "5";
+            string secondNumber = "0";
+            string expectedErrorMessage = "Cannot be divided by 0";
+            //Act
+            string result = _operations.Divide(firstNumber,secondNumber);
+            //Assert
+            Assert.Equal(expectedErrorMessage, result);
+        }
+
     }
 }
