@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\source\\repos\\SimpleCalculator\\SimpleCalculator\\SimpleCalculator.csproj": {}
+    "C:\\Users\\Dell\\Desktop\\MY PROJECTS\\SimpleCalculator\\SimpleCalculator\\SimpleCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\source\\repos\\SimpleCalculator\\Calculator.Core\\Calculator.Core.csproj": {
+    "C:\\Users\\Dell\\Desktop\\MY PROJECTS\\SimpleCalculator\\Calculator.Core\\Calculator.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\SimpleCalculator\\Calculator.Core\\Calculator.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\MY PROJECTS\\SimpleCalculator\\Calculator.Core\\Calculator.Core.csproj",
         "projectName": "Calculator.Core",
-        "projectPath": "C:\\Users\\Dell\\source\\repos\\SimpleCalculator\\Calculator.Core\\Calculator.Core.csproj",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\MY PROJECTS\\SimpleCalculator\\Calculator.Core\\Calculator.Core.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\source\\repos\\SimpleCalculator\\Calculator.Core\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\MY PROJECTS\\SimpleCalculator\\Calculator.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\Dell\\source\\repos\\SimpleCalculator\\SimpleCalculator\\SimpleCalculator.csproj": {
+    "C:\\Users\\Dell\\Desktop\\MY PROJECTS\\SimpleCalculator\\SimpleCalculator\\SimpleCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\SimpleCalculator\\SimpleCalculator\\SimpleCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\MY PROJECTS\\SimpleCalculator\\SimpleCalculator\\SimpleCalculator.csproj",
         "projectName": "SimpleCalculator",
-        "projectPath": "C:\\Users\\Dell\\source\\repos\\SimpleCalculator\\SimpleCalculator\\SimpleCalculator.csproj",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\MY PROJECTS\\SimpleCalculator\\SimpleCalculator\\SimpleCalculator.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\source\\repos\\SimpleCalculator\\SimpleCalculator\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\MY PROJECTS\\SimpleCalculator\\SimpleCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,8 +93,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\Dell\\source\\repos\\SimpleCalculator\\Calculator.Core\\Calculator.Core.csproj": {
-                "projectPath": "C:\\Users\\Dell\\source\\repos\\SimpleCalculator\\Calculator.Core\\Calculator.Core.csproj"
+              "C:\\Users\\Dell\\Desktop\\MY PROJECTS\\SimpleCalculator\\Calculator.Core\\Calculator.Core.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Desktop\\MY PROJECTS\\SimpleCalculator\\Calculator.Core\\Calculator.Core.csproj"
               }
             }
           }

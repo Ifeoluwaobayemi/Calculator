@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SnxI/A9T7XjG8IqEdUWH7YIixmkPWhS4kWaM2sY/hqnYVu0VM0TL43+hpyIvIV3BveqcgvGZCyE3GT4AJU3BwA==",
+  "dgSpecHash": "elgaDKA/nIvE6SnRfBhvPAfpVwFDqUGXWivw6Swd1PHvsF6tz2C6tMvwyM+YxmSX2M318JvUTuMfZLLlVl4J+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\SimpleCalculator\\TestOperationsClass\\TestOperationsClass.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\MY PROJECTS\\SimpleCalculator\\TestOperationsClass\\TestOperationsClass.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

@@ -13,3 +13,18 @@ C:\Users\Dell\source\repos\SimpleCalculator\Calculator.Core\obj\Debug\net6.0\ref
 C:\Users\Dell\source\repos\SimpleCalculator\Calculator.Core\obj\Debug\net6.0\Calculator.Core.pdb
 C:\Users\Dell\source\repos\SimpleCalculator\Calculator.Core\obj\Debug\net6.0\Calculator.Core.genruntimeconfig.cache
 C:\Users\Dell\source\repos\SimpleCalculator\Calculator.Core\obj\Debug\net6.0\ref\Calculator.Core.dll
+C:\Users\Dell\Desktop\MY PROJECTS\SimpleCalculator\Calculator.Core\bin\Debug\net6.0\Calculator.Core.exe
+C:\Users\Dell\Desktop\MY PROJECTS\SimpleCalculator\Calculator.Core\bin\Debug\net6.0\Calculator.Core.deps.json
+C:\Users\Dell\Desktop\MY PROJECTS\SimpleCalculator\Calculator.Core\bin\Debug\net6.0\Calculator.Core.runtimeconfig.json
+C:\Users\Dell\Desktop\MY PROJECTS\SimpleCalculator\Calculator.Core\bin\Debug\net6.0\Calculator.Core.dll
+C:\Users\Dell\Desktop\MY PROJECTS\SimpleCalculator\Calculator.Core\bin\Debug\net6.0\Calculator.Core.pdb
+C:\Users\Dell\Desktop\MY PROJECTS\SimpleCalculator\Calculator.Core\obj\Debug\net6.0\Calculator.Core.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\MY PROJECTS\SimpleCalculator\Calculator.Core\obj\Debug\net6.0\Calculator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MY PROJECTS\SimpleCalculator\Calculator.Core\obj\Debug\net6.0\Calculator.Core.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MY PROJECTS\SimpleCalculator\Calculator.Core\obj\Debug\net6.0\Calculator.Core.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MY PROJECTS\SimpleCalculator\Calculator.Core\obj\Debug\net6.0\Calculator.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MY PROJECTS\SimpleCalculator\Calculator.Core\obj\Debug\net6.0\Calculator.Core.dll
+C:\Users\Dell\Desktop\MY PROJECTS\SimpleCalculator\Calculator.Core\obj\Debug\net6.0\refint\Calculator.Core.dll
+C:\Users\Dell\Desktop\MY PROJECTS\SimpleCalculator\Calculator.Core\obj\Debug\net6.0\Calculator.Core.pdb
+C:\Users\Dell\Desktop\MY PROJECTS\SimpleCalculator\Calculator.Core\obj\Debug\net6.0\Calculator.Core.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MY PROJECTS\SimpleCalculator\Calculator.Core\obj\Debug\net6.0\ref\Calculator.Core.dll

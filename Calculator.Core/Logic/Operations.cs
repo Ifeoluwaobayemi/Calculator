@@ -56,10 +56,10 @@ namespace Calculator.Core.Logic
                 }
             }catch (Exception ex)
             {
-                //throw new Exception(ex.Message);
                 return "Cannot be divided by 0";
             }
         }
-    
+
+        
     }
 }
