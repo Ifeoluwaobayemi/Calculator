@@ -16,9 +16,9 @@ namespace TestOperationsClass
         {
             //Arrange
         
-            string firstNumber = "5";
+            string firstNumber = "10";
             string secondNumber = "5";
-            string expectedResult = "10";
+            string expectedResult = "15";
 
             //Act
             string result = _operations.Add(firstNumber, secondNumber);
@@ -48,7 +48,7 @@ namespace TestOperationsClass
         {
             //Arrange
 
-            string firstNumber = "5";
+            string firstNumber = "10";
             string secondNumber = "Invalid";
             string expectedErrorMessage = "Invalid number";
 
